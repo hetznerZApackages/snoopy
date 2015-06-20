@@ -1,0 +1,3 @@
+snoopy: non-dev-pkg-with-shlib-symlink
+snoopy: package-name-doesnt-match-sonames
+snoopy: sharedobject-in-library-directory-not-actually-a-shlib lib/snoopy.so

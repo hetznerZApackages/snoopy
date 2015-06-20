@@ -1,0 +1,3 @@
+version=2
+
+http://sf.net/snoopylogger/snoopy-(.*)\.tar\.gz debian
