@@ -1,3 +1,9 @@
+snoopy (2.3.1-2+hetz1~exp1) stretch-hetz-experimental; urgency=medium
+
+  * Build with config suport 
+
+ -- Shaun Bugler - Hetzner <sb@hetzner.co.za>  Thu, 13 Feb 2020 08:38:40 +0200
+
 snoopy (2.3.1-2) unstable; urgency=medium
 
   * Add automake to build-depends (closes: #788323)
