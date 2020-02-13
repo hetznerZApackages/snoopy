@@ -1,3 +1,9 @@
+snoopy (2.3.1-2+hetz1~exp2) stretch-hetz-experimental; urgency=medium
+
+  * Fix the preconfigured build option 
+
+ -- Shaun Bugler - Hetzner <sb@hetzner.co.za>  Thu, 13 Feb 2020 08:57:17 +0200
+
 snoopy (2.3.1-2+hetz1~exp1) stretch-hetz-experimental; urgency=medium
 
   * Build with config suport 
